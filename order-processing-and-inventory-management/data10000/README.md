@@ -1,0 +1,1 @@
+Dữ liệu test cho bài tập nhiệm vụ [Order Processing and Inventory Management](https://goclaptrinh.io/cms/quests/order-processing-and-inventory-management/), gồm 10k (10 ngàn) mặt hàng trong kho và 1m (1 triệu) đơn hàng cần xử lý.
